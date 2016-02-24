@@ -1,0 +1,62 @@
+body .logoAccueil{
+  width: 11px;
+  position: absolute;
+  top: 15px;
+  left: calc(50% - 5px);
+}
+body #menu{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #373c4a;
+}
+body #menu a{
+  color : #9EA0A5;
+}
+body #menu a:hover{
+  color : #D6D8DC;
+  text-decoration: none;
+}
+.main{
+  margin-top: 20px;
+}
+.produit{
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+.produit img{
+  width: 100%;
+}
+body{
+    background-color: #EBECED;
+}
+.description{
+  margin-top: 5px;
+  border-top: solid 1px #EBECED;
+  padding: 25px 15px 25px 15px;
+}
+.desc{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.previewProduit{
+  border-radius: 3px;
+  border: solid 1px #3e85cd;
+  width: 50px;
+  height: 50px;
+  background-image: url("../images/pull.jpg");
+  background-size: cover;
+}
+.delivery .gauche,
+.return .gauche{
+  color: #8a8f9c;
+}
+.delivery,
+.return{
+  font-size: 13px;
+}
+.delivery{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-bottom: solid 1px #EBECED;
+}
