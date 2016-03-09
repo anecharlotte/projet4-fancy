@@ -188,3 +188,15 @@ figcaption a{
 .ligne2{
   margin-bottom: 20px;
 }
+
+.prix{
+    font-weight: bold;
+    font-size: 20px;
+    color: #5b626d;
+}
+
+.euro{
+  font-size: 10px;
+  color: #838690;
+}
+
