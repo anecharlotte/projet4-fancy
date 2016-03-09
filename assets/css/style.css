@@ -200,3 +200,30 @@ figcaption a{
   color: #5b626d;
 }
 
+.option, .quantite{
+
+  margin-top: 10px;
+  font-size: 11px;
+  color: #5b626d;
+}
+
+.option label, .quantite label{
+  font-weight: lighter;
+}
+
+.option select{
+  width: 100%;
+}
+
+.cart{
+  font-size: 12px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 100%;
+  color: #fff;
+  margin-top: 15px;
+  border-radius: 3px;
+  background-color: rgb(117, 173, 94);
+  border: solid 1px rgb(62, 107, 50);
+
+}
