@@ -39,9 +39,7 @@ body{
   margin-top: 5px;
   border-top: solid 1px #EBECED;
   padding: 25px 15px 25px 15px;
-}
-description p{
-  font-size: 13px !important;
+  font-size: 13px;
 }
 .desc{
   font-weight: bold;
